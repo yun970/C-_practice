@@ -1,0 +1,11 @@
+C:\Users\Yun\Documents\C#\TextRPG2\TextRPG2\bin\Debug\netcoreapp3.1\TextRPG2.exe
+C:\Users\Yun\Documents\C#\TextRPG2\TextRPG2\bin\Debug\netcoreapp3.1\TextRPG2.deps.json
+C:\Users\Yun\Documents\C#\TextRPG2\TextRPG2\bin\Debug\netcoreapp3.1\TextRPG2.runtimeconfig.json
+C:\Users\Yun\Documents\C#\TextRPG2\TextRPG2\bin\Debug\netcoreapp3.1\TextRPG2.runtimeconfig.dev.json
+C:\Users\Yun\Documents\C#\TextRPG2\TextRPG2\bin\Debug\netcoreapp3.1\TextRPG2.dll
+C:\Users\Yun\Documents\C#\TextRPG2\TextRPG2\bin\Debug\netcoreapp3.1\TextRPG2.pdb
+C:\Users\Yun\Documents\C#\TextRPG2\TextRPG2\obj\Debug\netcoreapp3.1\TextRPG2.csprojAssemblyReference.cache
+C:\Users\Yun\Documents\C#\TextRPG2\TextRPG2\obj\Debug\netcoreapp3.1\TextRPG2.AssemblyInfoInputs.cache
+C:\Users\Yun\Documents\C#\TextRPG2\TextRPG2\obj\Debug\netcoreapp3.1\TextRPG2.AssemblyInfo.cs
+C:\Users\Yun\Documents\C#\TextRPG2\TextRPG2\obj\Debug\netcoreapp3.1\TextRPG2.dll
+C:\Users\Yun\Documents\C#\TextRPG2\TextRPG2\obj\Debug\netcoreapp3.1\TextRPG2.pdb
